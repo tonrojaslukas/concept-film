@@ -28,7 +28,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 ## L'univers
 
 - Où et quand se passe l'histoire : L'histoire ce passe au centre de Montréal 
-- Un élément de folklore qui rend l'univers vivant : ...
+- Un élément de folklore qui rend l'univers vivant : L'existence des Transformers
 
 ## La direction cinématographique
 
