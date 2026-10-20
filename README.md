@@ -37,4 +37,4 @@ Projet conçu en équipe avec : Lukas et Felipe
 - Le rythme du montage : frénétique, discontinu, chaos (coupes ultra-rapides), usage intensif de ralenti(combat)
 - Un moodboard (3 à 5 images de référence) : 
 
-![Moodboard](moodboard.jpg)
+![Moodboard](TonRojas_Lukas-color_grading.png)
