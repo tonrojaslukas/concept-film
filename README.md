@@ -1,4 +1,4 @@
-# Transformers : Protocole Fantôme
+# Transformers : Code Name D.U.M.B
 
 Projet conçu en équipe avec : Lukas et Felipe 
 
@@ -12,12 +12,12 @@ Projet conçu en équipe avec : Lukas et Felipe
 
 - Le début : On suit un chasseur de primes qui accompli ces primes à l'aide de l'intelligence artificielle, donc au départ il reçoit   une mission de la part de son supérieur. Il confie tout à son assistant virtuel que se soit les détails de sa mission jusqu'à les détails de sa vie. 
   
-- Le milieu : La mission part vite dans tout les sens des Transformers sont impliqués, notre chasseur de prime se retrouve dépasser par les événements et dans le feu de l'action il ne remarque pas que son téléphone est maintenant en contrôle d'un Transformer
+- Le milieu : La mission part vite dans tout les sens des Transformers sont impliqués, notre chasseur de prime se retrouve dépasser par les événements et dans le feu de l'action il ne remarque pas que son téléphone est maintenant en contrôle d'un Transformer.
   
-- Le revirement (plot twist) : L'IA qui a maintenant le pouvoir de se transformer en à marre de l'utilisateur et décider de   l'éliminer et de s'y prendre à sa famille. (Le téléphone se transforme)
+- Le revirement (plot twist) : Lors d'un discussion l'IA comprend qu'elle a une personne pas très intelligente et décider de   l'éliminer et de s'y prendre à sa famille. (Le téléphone se transforme)
   
-- La fin : Il réalise que l'IA peut être dangereux et arrête de l'utiliser et que son métier est dangereux il décide de 
-
+- La fin : Après avoir été vaincu par son assistant il décide d'arrêter son utilisation de toute forme d'intelligence artificiel 
+  
 ## Le personnage principal
 
 - Description (physique et psychologique) : Père de famille, homme de taille moyenne, Athlétique, vêtu de noir, lunette de soleil
@@ -29,7 +29,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 ## L'univers
 
 - Où et quand se passe l'histoire : L'histoire ce passe au centre de Montréal 
-- Un élément de folklore qui rend l'univers vivant : L'existence des Transformers
+- Un élément de folklore qui rend l'univers vivant : L'existence des Decepticons
 
 ## La direction cinématographique
 
