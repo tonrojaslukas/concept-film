@@ -10,7 +10,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 
 ## L'intrigue
 
-- Le début : On suit un chasseur de primes qui accompli ces primes à l'aide de l'intelligence artificielle, donc au départ il reçoit   une mission de la part de son supérieur. Il confie tout à son assistant virtuel
+- Le début : On suit un chasseur de primes qui accompli ces primes à l'aide de l'intelligence artificielle, donc au départ il reçoit   une mission de la part de son supérieur. Il confie tout à son assistant virtuel que se soit les détails de sa mission jusqu'à les détails de sa vie. 
   
 - Le milieu : La mission part vite dans tout les sens des Transformers sont impliqués, notre chasseur de prime se retrouve dépasser par les événements et dans le feu de l'action il ne remarque pas que son téléphone est maintenant en contrôle d'un Transformer
   
