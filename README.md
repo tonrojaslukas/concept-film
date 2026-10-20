@@ -15,7 +15,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 - Le milieu : La mission part vite dans tout les sens des Transformers sont impliqués, notre chasseur de prime se retrouve dépasser par les événements et dans le feu de l'action il ne remarque pas que son téléphone est maintenant en contrôle d'un Transformer
   
 - Le revirement (plot twist) : L'IA qui a maintenant le pouvoir de se transformer en à marre de l'utilisateur et décider de   l'éliminer. (Le téléphone se transforme)
-  
+  2
 - La fin : Il réalise que l'IA peut être dangereux et arrête de l'utiliser
 
 ## Le personnage principal
@@ -34,7 +34,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 
 - La palette de couleurs : orange, bleu, noir, brun (jeu de couleur froide et chaude & contraste orange/bleu) 
 - L'éclairage : Lumière extérieur ( Golden Hour ), éclairage dynamique
-- Le rythme du montage : ...
-- Un moodboard (3 à 5 images de référence) :
+- Le rythme du montage : frénétique, discontinu, chaos (coupes ultra-rapides), usage intensif de ralenti(combat)
+- Un moodboard (3 à 5 images de référence) : 
 
 ![Moodboard](moodboard.jpg)
