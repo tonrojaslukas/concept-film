@@ -32,7 +32,7 @@ Projet conçu en équipe avec : Lukas et Felipe
 
 ## La direction cinématographique
 
-- La palette de couleurs : orange, bleu, noir, brun (jeu de couleur froide et chaude & contraste orange/bleu) 
+- La palette de couleurs : orange, bleu, bleu-clair, noir, brun (jeu de couleur froide et chaude & contraste orange/bleu) 
 - L'éclairage : Lumière extérieur ( Golden Hour ), éclairage dynamique
 - Le rythme du montage : frénétique, discontinu, chaos (coupes ultra-rapides), usage intensif de ralenti(combat)
 - Un moodboard (3 à 5 images de référence) : 
