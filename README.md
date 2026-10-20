@@ -1,22 +1,22 @@
-# Titre du film
+# Transformers : Protocole Fantôme
 
 Projet conçu en équipe avec : Lukas et Felipe 
 
 ## Le concept et l'audience
 
-- Une phrase (logline) : 
+- Une phrase (logline) : Un chasseur de primes criblé de dettes 
 - Le public cible : Adolescence/ Adulte
 - La franchise d'origine : Transformers
 
 ## L'intrigue
 
-- Le début : On suit un chasseur de primes qui accompli ces primes à l'aide de l'intelligence artificielle, donc au départ il reçoit   une mission de la part de son supérieur.
+- Le début : On suit un chasseur de primes qui accompli ces primes à l'aide de l'intelligence artificielle, donc au départ il reçoit   une mission de la part de son supérieur. Il confie tout à son assistant virtuel
   
 - Le milieu : La mission part vite dans tout les sens des Transformers sont impliqués, notre chasseur de prime se retrouve dépasser par les événements et dans le feu de l'action il ne remarque pas que son téléphone est maintenant en contrôle d'un Transformer
   
-- Le revirement (plot twist) : L'IA qui a maintenant le pouvoir de se transformer en à marre de l'utilisateur et décider de   l'éliminer. (Le téléphone se transforme)
-  2
-- La fin : Il réalise que l'IA peut être dangereux et arrête de l'utiliser
+- Le revirement (plot twist) : L'IA qui a maintenant le pouvoir de se transformer en à marre de l'utilisateur et décider de   l'éliminer.(Le téléphone se transforme)
+  
+- La fin : Il réalise que l'IA peut être dangereux et arrête de l'utiliser et que son métier est dangereux il décide de 
 
 ## Le personnage principal
 
